@@ -6,6 +6,5 @@ Pillow
 scipy>=0.17.0
 streamlit
 dlib-bin
-face-recognition
 opencv-python
 pandas
